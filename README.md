@@ -1,5 +1,5 @@
 
-    # a [!License](https://licensebuttons.net/l/zero/1.0/80x15.png)(http://creativecommons.org/publicdomain/zero/1.0/)
+    # a [!License](https://licensebuttons.net/l/zero/1.0/80x15.png)
     
     a   
     
