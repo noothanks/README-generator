@@ -1,39 +1,38 @@
-
-    # a ![license](MIT)
+# a ![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
     
-    a   
+a   
     
-    ## Table Of Contents
-    * [Installation](#Installation)
-    * [Usage](#Usage)
-    * [License](#License)
-    * [Contributing](#Contributing)
-    * [Tests](#tests)
-    * [Questions](#Questions)
+## Table Of Contents
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributing](#Contributing)
+* [Tests](#tests)
+* [Questions](#Questions)
     
-    ## Installation
+## Installation Instructions
     
-    Install project with __
-    
-    a
+a
         
-    ## Usage
+## Usage
     
-    a
+a
     
-    ## License
+## License
     
-    MIT
+CC0: Public domain. ![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
     
-    ## Contributing
+## Contributing
     
-    undefined
+a
     
-    ## Tests
+## Tests
 
-    a
+a
 
-    ## Questions
+## Questions
 
-    a
+a
+- GitHub: [@a](https://www.github.com/a)
+- Email: a@a.com
     

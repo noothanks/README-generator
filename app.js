@@ -60,7 +60,7 @@ const promptUser = () => {
             type: 'checkbox',
             name:'license',
             message: 'Select a license type below.',
-            choices: ['PD', 'CC0', 'BSD', 'MIT', 'Apache', 'JRL', 'AFPL'],
+            choices: ['CC0', 'BSD', 'MIT', 'Apache', 'ISC', 'AGPL'],
             validate: licenseInput => {
                 if(licenseInput) {
                     return true;
@@ -72,7 +72,7 @@ const promptUser = () => {
         },
         {
             type: 'input',
-            name: 'constributing',
+            name: 'contributing',
             message: 'Provide a description on how to contribute to this project.',
             validate: contributingInput => {
                 if(contributingInput) {
@@ -99,12 +99,38 @@ const promptUser = () => {
         {
             type: 'text',
             name: 'questions',
-            message: 'Ask any questions you may have.',
+            message: 'Describe how a user can ask questions.',
             validate: questionsInput => {
                 if(questionsInput) {
                     return true;
                 } else{ 
-                    console.log('Please enter a question')
+                    console.log('Please enter a question');
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'text',
+            name: 'username',
+            message: 'Enter your GitHub username',
+            validate: usernameInput => {
+                if(usernameInput) {
+                    return true;
+                } else {
+                    console.log('Please provide your GitHub username')
+                }
+            }
+        },
+        {
+            type: 'text',
+            name: 'email',
+            message: 'Enter your email address.',
+            validate: emailInput => {
+                if(emailInput) {
+                    return true;
+                } else {
+                    console.log('Please enter a valid email address');
+                    return false;
                 }
             }
         }
