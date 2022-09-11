@@ -1,37 +1,36 @@
-
-    # a ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# a ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
     
-    a   
+a   
     
-    ## Table Of Contents
-    * [Installation](#Installation)
-    * [Usage](#Usage)
-    * [License](#License)
-    * [Contributing](#Contributing)
-    * [Tests](#tests)
-    * [Questions](#Questions)
+## Table Of Contents
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributing](#Contributing)
+* [Tests](#tests)
+* [Questions](#Questions)
     
-    ## Installation Instructions
+## Installation Instructions
     
-    a
+a
         
-    ## Usage
+## Usage
     
-    a
+a
     
-    ## License
+## License
     
-    CC0: Public domain. 
+CC0: Public domain. 
     
-    ## Contributing
+## Contributing
     
-    a
+a
     
-    ## Tests
+## Tests
 
-    a
+a
 
-    ## Questions
+## Questions
 
-    a
+a
     
